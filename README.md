@@ -60,6 +60,6 @@ Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
 
 ## 📦 Project Info
 
-Developed as part of an SDEV course at Ivy Tech.
+Developed as part of SDEV248 at Ivy Tech.
 
 Created by Jason Hollin & Dexter Jones
