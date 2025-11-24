@@ -73,7 +73,7 @@ If you download the project as a zip file, follow these steps to run the game in
 | :--- | :--- |
 | **Move** | Arrow Keys |
 | **Advance Dialog / Cutscene** | Spacebar |
-| **Exit Cutscene / Back** | Click X to Exit |
+| **Exit Cutscene | Click X to Exit |
 
 ---
 
