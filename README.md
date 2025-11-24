@@ -1,10 +1,10 @@
-🌲 Forest Key Adventure
+# 🌲 Forest Key Adventure
 
 A top-down 2D adventure game built in Godot 4.5.
 
 Explore the forest, avoid enemies, recover the stolen key, and reach the ending scene.
 
-🎮 Overview
+## 🎮 Overview
 
 A magical key that protects the forest has been stolen.
 
@@ -12,7 +12,7 @@ Enemies patrol the woods and will chase you if they spot you.
 
 Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
 
-✨ Features
+## ✨ Features
 
 * **🎵 Dynamic Music System**
     * Calm background music during normal gameplay
@@ -34,7 +34,7 @@ Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
     * Custom sprites (player, NPCs, enemies, key)
     * Trees, rocks, and grass tiles throughout the levels
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 <p align="center">
   <b>Start Screen</b><br>
@@ -45,21 +45,20 @@ Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
   <img src="https://raw.githubusercontent.com/fitdoorsman/Forest-Key-Adventure/main/Forest%20Key%20Adventure%20Gameplay.png" width="700">
 </p>
 
-▶️ How to Play
+## ▶️ How to Play
 
 1.  Download or clone this repository.
 2.  Open Godot 4.5+.
 3.  Click **Import**, select the project folder, and open `project.godot`.
 4.  Press **F5** to run the game.
 
-⌨️ Controls
+## ⌨️ Controls
 
 * **Move:** Arrow Keys or WASD
 * **Advance Dialog / Cutscene:** Spacebar
 * **Exit Cutscene / Back:** Esc
 
-📦 Project Info
+## 📦 Project Info
 
-Developed as part of SDEV248 at Ivy Tech.
-
+Developed as part of SDEV248 at Ivy Tech
 Created by Jason Hollin & Dexter Jones
