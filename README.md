@@ -4,6 +4,8 @@ A top-down 2D adventure game built in Godot 4.5.
 
 Explore the forest, avoid enemies, recover the stolen key, and reach the ending scene.
 
+---
+
 ## 🎮 Overview
 
 A magical key that protects the forest has been stolen.
@@ -11,6 +13,8 @@ A magical key that protects the forest has been stolen.
 Enemies patrol the woods and will chase you if they spot you.
 
 Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
+
+---
 
 ## ✨ Features
 
@@ -34,6 +38,8 @@ Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
     * Custom sprites (player, NPCs, enemies, key)
     * Trees, rocks, and grass tiles throughout the levels
 
+---
+
 ## 🖼️ Screenshots
 
 <p align="center">
@@ -45,18 +51,31 @@ Talk to NPCs, explore multiple levels, retrieve the key, and escape safely.
   <img src="https://raw.githubusercontent.com/fitdoorsman/Forest-Key-Adventure/main/Forest%20Key%20Adventure%20Gameplay.png" width="700">
 </p>
 
+---
+
 ## ▶️ How to Play
 
-1.  Download or clone this repository.
-2.  Open Godot 4.5+.
-3.  Click **Import**, select the project folder, and open `project.godot`.
-4.  Press **F5** to run the game.
+If you download the project as a zip file, follow these steps to run the game in Godot:
+
+1.  **Download** the repository (usually as a zip file) or clone it.
+2.  **Unzip/Extract** the contents of the zip file to create a regular folder.
+3.  Open **Godot 4.5+**.
+4.  Click **Import**.
+5.  Navigate to and select the **unzipped project folder**.
+6.  Open the `project.godot` file inside that folder.
+7.  Press **F5** to run the game.
+
+---
 
 ## ⌨️ Controls
 
-* **Move:** Arrow Keys or WASD
-* **Advance Dialog / Cutscene:** Spacebar
-* **Exit Cutscene / Back:** Esc
+| Action | Input (Keys) |
+| :--- | :--- |
+| **Move** | Arrow Keys or WASD |
+| **Advance Dialog / Cutscene** | Spacebar |
+| **Exit Cutscene / Back** | Esc |
+
+---
 
 ## 📦 Project Info
 
